@@ -1,0 +1,18 @@
+{
+  "workspace": {
+    "path": "${workspaceFolder}\\LedBlinking\\project\\LedBlinking.eww"
+  },
+  "workspaces": {
+    "${workspaceFolder}\\LedBlinking\\project\\LedBlinking.eww": {
+      "configs": {
+        "${workspaceFolder}\\LedBlinking\\project\\LedBlinking.ewp": "Debug"
+      },
+      "selected": {
+        "path": "${workspaceFolder}\\LedBlinking\\project\\LedBlinking.ewp"
+      }
+    }
+  },
+  "workbench": {
+    "path": "C:\\\\Program Files\\\\IAR Systems\\\\Embedded Workbench 9.1"
+  }
+}
